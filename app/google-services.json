@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "731456271541",
+    "firebase_url": "https://myrb-e8f97.firebaseio.com",
+    "project_id": "myrb-e8f97",
+    "storage_bucket": "myrb-e8f97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731456271541:android:ef9a8edb0ae316eb",
+        "android_client_info": {
+          "package_name": "com.allaber.myrb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731456271541-krabd493p6bpgl837jvdp3a2s5e6g1tj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allaber.myrb",
+            "certificate_hash": "499f72080924cb7a65c3517fd9d2d2ea5d27efad"
+          }
+        },
+        {
+          "client_id": "731456271541-qrq9kno0qmd4raa46bm3rjj1l5skci9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_IqEO08voeZ0_COhy-k5K7C69F003Rms"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731456271541-qrq9kno0qmd4raa46bm3rjj1l5skci9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
